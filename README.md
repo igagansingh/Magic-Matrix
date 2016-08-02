@@ -4,4 +4,5 @@ CROSS OFF NUMBERS ONE BY ONE AND TRY IT MULTIPLE TIMES ,
 YOU'LL END UP WITH SAME NUMBER EVERYTIME - 65(here) .
 HAVE FUN ! 
 ![Main](main.png)
-![Main](main.png)
+![Test 1](test_one.png)
+![Test 2](test_two.png)
